@@ -468,6 +468,45 @@
 				<string>#66a9ec</string>
 			</dict>
 		</dict>
+	  <dict>
+      <key>name</key>
+      <string>NOTE</string>
+      <key>scope</key>
+      <string>annotation.note</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string>bold</string>
+        <key>foreground</key>
+        <string>#008900</string>
+      </dict>
+    </dict>
+            <dict>
+  <key>name</key>
+  <string>TODO</string>
+  <key>scope</key>
+  <string>annotation.todo</string>
+  <key>settings</key>
+  <dict>
+    <key>fontStyle</key>
+    <string>bold</string>
+    <key>foreground</key>
+    <string>#C42F0E</string>
+  </dict>
+  </dict>
+      <dict>
+      <key>name</key>
+      <string>IMPORTANT</string>
+      <key>scope</key>
+      <string>annotation.important</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string>bold</string>
+        <key>foreground</key>
+        <string>#CFC927</string>
+      </dict>
+    </dict>
 	</array>
 	<key>uuid</key>
 	<string>233F0694-0B9C-43E3-A44A-ECECF7DF6C73</string>
